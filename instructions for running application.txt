@@ -1,0 +1,10 @@
+Run the Server:
+
+-Open a terminal and navigate to the directory containing server.js.
+-Run npm install express body-parser cors to install the required dependencies.
+-Run node server.js to start the server.
+
+Access the Chat Interface:
+
+-Open your web browser and navigate to "http://localhost:3000/static/chat.html".
+-You should see a simple chat interface with a message input field and a messages display area.
